@@ -156,7 +156,8 @@ body{
     width: 90%;
     font-family: normal;
     background-blend-mode:darken;
-    filter:opacity(75%)
+    filter:opacity(60%);
+    background-color: beige;
 }
 
 
